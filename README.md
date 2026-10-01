@@ -100,7 +100,7 @@ Responsável pela interface gráfica da aplicação.
 
 Responsável pelo controle da versão da aplicação.
 
-## ⚙️ Como funciona
+## Como funciona
 
 O usuário configura os parâmetros da automação através da interface.
 
@@ -134,7 +134,7 @@ Captura
 Arquivo .PNG
 ```
 
-## 📸 Tipos de captura
+## Tipos de captura
 
 ### 1. Navegador
 
